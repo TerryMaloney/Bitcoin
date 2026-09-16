@@ -1,0 +1,18 @@
+{
+  "asset": "BTC",
+  "custodian": "PayPal",
+  "quantity_btc": 0.00032692,
+  "purchase": {
+    "cash_outlay_usd": null,
+    "transaction_fee_usd": null,
+    "executed_price_usd_per_btc": null,
+    "timestamp": null,
+    "verified_from_receipt": false
+  },
+  "last_manual_reconciliation": {
+    "paypal_display_value_usd": 24.75,
+    "timestamp": null,
+    "source": "user screenshot"
+  },
+  "notes": "Fill purchase fields only from the PayPal transaction receipt or another verified record."
+}
