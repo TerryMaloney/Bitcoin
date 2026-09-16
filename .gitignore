@@ -1,0 +1,14 @@
+# Personal/live account state must never be committed.
+data/private/
+.env
+*.secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Local caches
+.cache/
+*.sqlite3
