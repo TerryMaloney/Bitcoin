@@ -1,0 +1,12 @@
+{
+  "asset": "BTC",
+  "quantity_btc": 0.0,
+  "purchase": {
+    "cash_outlay_usd": null,
+    "transaction_fee_usd": null,
+    "executed_price_usd_per_btc": null,
+    "timestamp": null,
+    "verified_from_receipt": false
+  },
+  "notes": "Example only. Keep real account-specific values under data/private/ or outside the repository."
+}
